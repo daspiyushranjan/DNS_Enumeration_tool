@@ -12,7 +12,7 @@ A basic Python-based DNS enumeration tool created for learning and practicing DN
 
 ## Files
 
-* `dns_enum.py` — Main Python program
+* `main.py` — Main Python program
 * `subdomains.txt` — List of subdomains used for enumeration
 
 ## Requirements
@@ -22,7 +22,7 @@ A basic Python-based DNS enumeration tool created for learning and practicing DN
 
 ## Usage
 
-Make sure `dns_enum.py` and `subdomains.txt` are in the same directory.
+Make sure `main.py` and `subdomains.txt` are in the same directory.
 
 Run:
 
